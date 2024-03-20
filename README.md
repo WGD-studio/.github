@@ -14,12 +14,11 @@ At WGD Studio, our mission is to push the boundaries of gaming innovation and de
 
 - **WGD studio Official Website:** Explore the world of WGD and stay updated on the latest news and developments by visiting our [official website](https://WGD-studio.github.io/).
 - **F night Official Website:** Explore the world of F night and stay updated on the latest news and developments by visiting our [F night's website](https://WGD-studio.github.io/f-night).
-
-- **Discord:** Join our Discord server [WGD Studio Discord Server](https://discord.gg/WGDStudio) to connect with fellow gamers and engage with the WGD Studio community.
+- **Repositories:** Dosen't forgot to check our [Repositories](https://github.com/orgs/WGD-studio/repositories).
 
 ## Collaborate with Us
 
-We welcome collaboration opportunities, feedback, and contributions from fellow developers, gamers, and enthusiasts. If you're interested in partnering with us or have any inquiries, feel free to reach out via email at contact@wgdstudio.com.
+We welcome collaboration opportunities, feedback, and contributions from fellow developers, gamers, and enthusiasts. If you're interested in partnering with us or have any inquiries!
 
 ## License
 
