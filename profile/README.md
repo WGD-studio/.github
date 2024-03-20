@@ -14,7 +14,7 @@ At WGD Studio, our mission is to push the boundaries of gaming innovation and de
 
 - **WGD studio Official Website:** Explore the world of WGD and stay updated on the latest news and developments by visiting our [official website](https://WGD-studio.github.io/).
 - **F night Official Website:** Explore the world of F night and stay updated on the latest news and developments by visiting our [F night's website](https://WGD-studio.github.io/f-night).
-- 
+
 - **Repositories:** Dosen't forgot to check our [Repositories](https://github.com/orgs/WGD-studio/repositories).
 
 ## Collaborate with Us
